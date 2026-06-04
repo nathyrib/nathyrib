@@ -75,3 +75,11 @@ Me chamo Nathalia Ribeiro, tenho 20 anos e sou estudante de CiÃªncia da ComputaÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Github"
+    title="Github" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
