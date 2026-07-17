@@ -1,6 +1,6 @@
 ## 🌟 Oii, eu sou a Nathalia!
 
-Me chamo Nathalia Ribeiro, tenho 20 anos e sou estudante de Ciência da Computação. No momento, estou focando em aprimorar minhas habilidades e aprender novas tecnologias.
+Me chamo Nathalia Ribeiro, tenho 20 anos, sou estudante de Ciência da Computação e estagiária de suporte a automação e nuvem. No momento, estou focando em aprimorar minhas habilidades e aprender novas tecnologias.
 
 ##
 
